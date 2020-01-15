@@ -1,3 +1,5 @@
+#if you are using a computer or network, where the netcut application is blocked,
+#but you can run the python language, use the following program
 import sys
 import socket
 import getopt
