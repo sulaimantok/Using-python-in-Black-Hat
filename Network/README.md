@@ -1,5 +1,5 @@
 # Using Python to Pentesting
-some sample programs use python for system testing and testing
+some sample programs use python for Pentesting
 
 some programs require adding libraries, like paramiko and other, to install that library
 
