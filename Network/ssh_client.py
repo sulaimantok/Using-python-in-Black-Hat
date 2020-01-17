@@ -13,4 +13,4 @@ def ssh_connect(ip,user,passwd,command):
     return
 
 #please replace this parameter, with you'r infomation ssh server
-ssh_connect('ip_address','username','password','id')
+ssh_connect('localhost','sulaiman','bismillah','id')
